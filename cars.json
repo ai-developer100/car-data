@@ -4,7 +4,7 @@
     "make": "Toyota",
     "model": "Corolla",
     "year": 2020,
-    "price": 18000,
+    "price": 16000,
     "type": "Sedan"
   },
   {
@@ -12,7 +12,167 @@
     "make": "Honda",
     "model": "CR-V",
     "year": 2021,
-    "price": 25000,
+    "price": 30000,
+    "type": "SUV"
+  },
+  {
+    "id": 3,
+    "make": "Toyota",
+    "model": "Axio",
+    "year": 2017,
+    "price": 12500,
+    "type": "Sedan"
+  },
+  {
+    "id": 4,
+    "make": "Toyota",
+    "model": "Fielder",
+    "year": 2018,
+    "price": 14500,
+    "type": "Wagon"
+  },
+  {
+    "id": 5,
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2019,
+    "price": 21000,
+    "type": "SUV"
+  },
+  {
+    "id": 6,
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2018,
+    "price": 22000,
+    "type": "SUV"
+  },
+  {
+    "id": 7,
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2017,
+    "price": 18000,
+    "type": "SUV"
+  },
+  {
+    "id": 8,
+    "make": "Toyota",
+    "model": "Prado TX",
+    "year": 2016,
+    "price": 40000,
+    "type": "SUV"
+  },
+  {
+    "id": 9,
+    "make": "Mercedes",
+    "model": "E250",
+    "year": 2017,
+    "price": 45000,
+    "type": "Sedan"
+  },
+  {
+    "id": 10,
+    "make": "BMW",
+    "model": "X3",
+    "year": 2018,
+    "price": 42000,
+    "type": "SUV"
+  },
+  {
+    "id": 11,
+    "make": "Honda",
+    "model": "Fit",
+    "year": 2017,
+    "price": 9500,
+    "type": "Hatchback"
+  },
+  {
+    "id": 12,
+    "make": "Toyota",
+    "model": "Vitz",
+    "year": 2016,
+    "price": 8700,
+    "type": "Hatchback"
+  },
+  {
+    "id": 13,
+    "make": "Isuzu",
+    "model": "D-Max",
+    "year": 2019,
+    "price": 33000,
+    "type": "Truck"
+  },
+  {
+    "id": 14,
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2018,
+    "price": 35000,
+    "type": "Truck"
+  },
+  {
+    "id": 15,
+    "make": "Lexus",
+    "model": "RX 350",
+    "year": 2017,
+    "price": 48000,
+    "type": "SUV"
+  },
+  {
+    "id": 16,
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 2017,
+    "price": 16000,
+    "type": "Sedan"
+  },
+  {
+    "id": 17,
+    "make": "Nissan",
+    "model": "Note",
+    "year": 2018,
+    "price": 10500,
+    "type": "Hatchback"
+  },
+  {
+    "id": 18,
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2019,
+    "price": 27000,
+    "type": "SUV"
+  },
+  {
+    "id": 19,
+    "make": "Mazda",
+    "model": "Demio",
+    "year": 2017,
+    "price": 9800,
+    "type": "Hatchback"
+  },
+  {
+    "id": 20,
+    "make": "Toyota",
+    "model": "Crown",
+    "year": 2016,
+    "price": 24000,
+    "type": "Sedan"
+  },
+  {
+    "id": 21,
+    "make": "Audi",
+    "model": "Q5",
+    "year": 2018,
+    "price": 38000,
+    "type": "SUV"
+  },
+  {
+    "id": 22,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "year": 2019,
+    "price": 23000,
     "type": "SUV"
   }
 ]
